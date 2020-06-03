@@ -3,13 +3,13 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 ## Screenshot 
-![alt-image](http://github.com/jerniceduncan/Google-Books-React-Search/blob/master/client/images/ReactGoogleBooksSearch.gif)
+[![alt-image](http://github.com/jerniceduncan/Google-Books-React-Search/blob/master/client/images/ReactGoogleBooksSearch.gif)]
 
 ## Demo
-![alt-image](http://github.com/jerniceduncan/Google-Books-React-Search/blob/master/client/images/ReactGoogleBooksSearch.gif)
+[![alt-image](http://github.com/jerniceduncan/Google-Books-React-Search/blob/master/client/images/ReactGoogleBooksSearch.gif)]
 
 # **My App**
-![link](http://google-books-react-search-21.herokuapp.com/)
+http://google-books-react-search-21.herokuapp.com
 
 
 
